@@ -12,7 +12,7 @@
   <td>
     I'm Kushal, a Software Engineer with <br/>1.5+ years of work experience.<br/><br/>
    I specialize in Backend & DevOps using<br/>Golang, Python or TypeScript.<br/><br/> 
-   Currently learning: Kubernetes
+   Compettive prog. for fun and practice
   </td>
   <td>
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=kush-ks&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
