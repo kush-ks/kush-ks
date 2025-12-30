@@ -6,7 +6,8 @@
 <img style="height:22px" title="mongodb" src="https://github.com/user-attachments/assets/939b4c55-67be-4c83-b39e-f91e6aca81d2"/> &nbsp;
 <img style="height:23px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 </div>
-<hr/>
+
+<br />
 
 <div align="center">
 <table> 
