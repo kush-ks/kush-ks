@@ -15,7 +15,7 @@
    Compettive prog. for fun and practice
   </td>
   <td>
-   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=kush-ks&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
+   <!-- <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=kush-ks&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/> -->
   </td>
  </tr>
 </table>
