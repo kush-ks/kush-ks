@@ -19,28 +19,25 @@
  </tr>
  
  <tr> 
-    <td><h4>
+    <td><h5>
    <b>
-   My Projects:
+   My Projects: <br/>
    <a href="https://itskushal.com/projects">/projects</a>
   </b>
-   <br/><sub>Live: 4 company, 3 solo</sub></h4>
   </td>
   
-  <td>   <h4>
+  <td>   <h5>
 <b>
-   LeetCode:
-   <a href="https://leetcode.com/u/truexor">/u/truexor</a>
+   Discord: <br/>
+   <a href="https://discordapp.com/users/628212302004355078">/truexor</a>
   </b>
-   <br/><sub>Knight 1850+</sub></h4>
    </td>
    
-  <td><h4>
+  <td><h5>
    <b>
-   LinkedIn:
+   LinkedIn: <br/>
    <a href="https://linkedin.com/in/itskushal">/in/itskushal</a>
   </b>
-   <br/><sub>1.5yr experience</sub></h4>
   </td>
   
  </tr>
