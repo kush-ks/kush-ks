@@ -1,5 +1,5 @@
-<div align="center"><h3><b>Visit Portfolio: <a href="https://itskushal.com">itskushal.com</a></b></h3></div>
-<div align="center">
+<div><h3><b>Visit Portfolio: <a href="https://itskushal.com">itskushal.com</a></b></h3></div>
+<div>
 <img style="height:21px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:22px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
 <img style="height:24px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
@@ -7,42 +7,12 @@
 <img style="height:23px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 </div>
 
-<br />
+<hr />
 
-<div align="center">
-<table> 
- 
- <tr> 
-    <td colspan=3>
-     <h6>Hi, I'm Kushal. I build and break tech. <br/>Developing skills & finding purpose in it.</h6>
-    </td>
- </tr>
- 
- <tr> 
-    <td><h5>
-   <b>
-   My Projects: <br/>
-   <a href="https://itskushal.com/projects">/projects</a>
-  </b>
-  </td>
-  
-  <td>   <h5>
-<b>
-   Discord: <br/>
-   <a href="https://discordapp.com/users/628212302004355078">/truexor</a>
-  </b>
-   </td>
-   
-  <td><h5>
-   <b>
-   LinkedIn: <br/>
-   <a href="https://linkedin.com/in/itskushal">/in/itskushal</a>
-  </b>
-  </td>
-  
- </tr>
-</table>
-    <h6>⭐ 99 stars &nbsp; | &nbsp; ☘️ 12 repos</h6>
-</div>
+<ul>
+ <li>Check my Projects: <a href="https://itskushal.com/projects">https://itskushal.com/projects</a></li>
+ <li>Read my Blogs: <a href="https://blogs.itskushal.com">https://blogs.itskushal.com</a></li>
+ <li>Text on Discord: <a href="https://discordapp.com/users/628212302004355078">https://discordapp.com/users/628212302004355078</a></li>
+</ul>
     
-
+<h6>⭐ 99 stars &nbsp; | &nbsp; ☘️ 12 repos</h6>
